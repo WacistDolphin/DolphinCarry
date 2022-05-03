@@ -1,0 +1,3 @@
+namespace KalistaDraw {
+	void loadMenu();
+};
